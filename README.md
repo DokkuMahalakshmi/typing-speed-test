@@ -26,6 +26,15 @@ typing-speed-test
 ├── index.html   # Main HTML file  
 ├── style.css    # Stylesheet for design and layout  
 └── script.js    # JavaScript logic for typing speed and accuracy  
+cd typing-speed-test
+---
+
+If you want, I can also:
+- Add **GitHub badges** (Live Demo, HTML, CSS, JS)
+- Make it **more professional for resume/placement**
+- Shorten or simplify it for **college submission**
+
+Just tell me 👍
 
 ⚙️ How to Run Locally
 
