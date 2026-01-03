@@ -42,3 +42,4 @@ Just tell me 👍
 
 ```bash
 git clone https://github.com/DokkuMahalakshmi/typing-speed-test.git
+git clone https://github.com/DokkuMahalakshmi/typing-speed-test.git
