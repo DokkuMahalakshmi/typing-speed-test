@@ -73,3 +73,5 @@ inputEl.addEventListener("input", () => {
 });
 
 startBtn.addEventListener("click", startTest);
+
+
